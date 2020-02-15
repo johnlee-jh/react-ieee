@@ -88,7 +88,6 @@ class Events extends Component {
     return (
       <div className="main">
         <div className="hero"
-        style={{ backgroundImage: "url(" + eventsImage + ")" }}>
         </div>
         <div className="submenu">
         <ul>

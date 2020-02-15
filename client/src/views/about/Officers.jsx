@@ -207,7 +207,7 @@ class About extends Component {
                 </LazyLoad>
                
                 <div className="tile salutation">
-                    <div className="left-align-top"><span>Claudia Korea</span><span className="rank">Secretary</span></div>
+                    <div className="left-align-top"><span>Eugene Wong</span><span className="rank">Secretary</span></div>
                     {/*
                     <div className="bottom-align"><a href="https://www.linkedin.com/in/neha-godbole-b61274126/" className="icon" target="_blank"  rel="noopener noreferrer"><i className="icon-linkedin"></i></a></div>
                     */}

@@ -39,19 +39,16 @@
         }
       },
       {
-        "Officer": "Nimalen Sivapalan",
-        "Links": {
-          "Github": "https://github.com/nsivapalan/",
-          "Linkedin": "https://linkedin.com/in/nimalen"
-        }
+        "Officer": "Andrew Dinh"
       },
-      
       {
-        "Officer": "Elizabeth Wang",
-        "Links": {
-          "Linkedin": "https://www.linkedin.com/in/elizabeth-t-wang/"
-
-        }
+        "Officer": "John Lee"
+      },
+      {
+        "Officer": "Ishaan Mishra"
+      },
+      {
+        "Officer": "Wilson Nguyen"
       }
     ],
 
@@ -60,10 +57,7 @@
         "Director" : "Eric Gao"
       },
       {
-        "Officer": "George Wang"
-      },
-      {
-        "Officer": "Tiffany Cappellari",
+        "Director": "Tiffany Cappellari",
         "Links": {
           "Linkedin": "https://www.linkedin.com/in/tiffany-cappellari-199174149/"
         }
@@ -72,10 +66,19 @@
         "Officer": "Justin Fu"
       },
       {
-        "Officer": "Kunal Basu"
+        "Officer": "Justin Chen"
       },
       {
-        "Officer": "Wesley Chen"
+        "Officer": "George Wang"
+      },
+      {
+        "Officer": "Sunay Dagil"
+      },
+      {
+        "Officer": " Aditya Bhawal"
+      },
+      {
+        "Officer": "Kathy Wu"
       }
     ],
     "Marketing": [
@@ -86,31 +89,25 @@
         "Director": "Sydney Ty"
       },
       {
-        "Officer" : "Alexander Zerkel"
+        "Officer" : "Katja Maucec"
       },
       {
-        "Officer" : "Vincent Wu",
-        "Links": {
-          "Linkedin": "https://www.linkedin.com/in/wensenwu/"
-        }
+        "Officer" : "Pranay Rajpaul"
       },
       {
-        "Officer" : "Sydney Ty",
-        "Links": {
-          "Linkedin": "https://www.linkedin.com/in/sydney-ty/"
-        }
+        "Officer" : "Ray Altenberg"
       },
       {
         "Officer": "Abhik Ahuja"
       },
-      {
-        "Officer": "Nikki Kanakadandila"
-      }
     ],
 
     "Hope": [
       {
         "Director": "Leon Wu"
+      },
+      {
+        "Officer": "Kevin Zhang"
       },
       {
         "Officer": "Jeffrey Ni"
@@ -155,25 +152,11 @@
         "Director": "Anusha Subramanian"
       },
       {
-        "Officer": "Eugene Wong"
+        "Officer": "Xingyu Li"
       },
       {
-        "Officer": "Lucas Huang"
-      },
-      {
-        "Officer": "Yujie Wang",
-        "Links": {
-          "Github": "github.com/yuji3w",
-          "Linkedin": "www.linkedin.com/in/yuji3w"
-        }
-      },
-      {
-        "Officer": "Anusha Subramanian"
-      },
-      {
-        "Officer": "Julie Chun"
+        "Officer": "Korinna Frangias"
       }
-
     ],
 
     "Techops": [
@@ -193,15 +176,7 @@
         }
       },
       {
-        "Officer": "Robert Quitt"
-      },
-      
-      {
-        "Officer": "Kevin Lo",
-        "Links": {
-          "Github": "github.com/databears-cal",
-          "Linkedin": "linkedin.com/kevin-lo-ucb"
-        }
+        "Officer": "Enran Wu"
       }
     ],
 
@@ -213,58 +188,28 @@
         "Director": "Ethan Mehta"
       },
       {
-        "Officer": "Aakarsh Gupta",
-        "Links": {
-          "Github": "http://www.github.com/aakarshgupta97",
-          "Linkedin": "http://www.linkedin.com/in/aakarshgupta97"
-        }
-      },
-      {
         "Officer": "Ahad Rauf"
       },
       {
-        "Officer": "Amay Saxena"
+        "Officer": "Keahooi Hung"
       },
       {
-        "Officer": "William (Billy) Zhao"
+        "Officer": "Lorne Briones"
       },
       {
-        "Officer": "Xingyu Jin"
+        "Officer": "Boyang Li"
       },
       {
-        "Officer": "Eric Li"
+        "Officer": "Julian Meyn"
       },
       {
-        "Officer": "Matthew Tran"
-      },
-      {
-        "Officer": "Ethan Mehta"
+        "Officer": "Anton Than"
       }
     ],
 
     "Outreach": [
       {
-        "Director": "Gary Yang"
-      },
-      {
-        "Officer" : "Manav Rathod",
-        "Links": {
-          "Github": "https://github.com/ManavR123",
-          "Linkedin": "https://www.linkedin.com/in/manavrathod"
-        }
-      },
-      {
-        "Officer": "Aman Sidhant",
-        "Links": {
-          "Github": "http://github.com/amansidhant",
-          "Linkedin": "http://linkedin.com/in/amansidhant"
-        }
-      },
-      {
-        "Officer": "Sina Moshfeghi"
-      },
-      {
-        "Officer": "Andrew Young"
+        "Director": "Neda Hudait"
       }
     ]
 }
